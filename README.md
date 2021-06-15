@@ -1,5 +1,5 @@
 # Statistical-Data-Analysis
-# Dataset link : https://github.com/Aishwarya2501/Statistical-Data-Analysis/blob/main/googleplay.csv
+ Dataset link : https://github.com/Aishwarya2501/Statistical-Data-Analysis/blob/main/googleplay.csv
  
 The dataset we have chosen is the Google Play Store from Kaggle. It gives us a brief information about a few apps on it. This dataset has approximately 4% missing values. This dataset was last modified in December 2018
 The dataset, contains information regarding 6000+ applications available on the google play store. The information is categorised into 13 columns. There are called the features of the dataset or the variables. The variables in this dataset are:
@@ -23,10 +23,10 @@ Here, the categorial variables are represented using C and numerical variables u
 ## Table of Content:
 ### DataSet
 ### Imports
-### DataCleaning
+### Data Cleaning
 ### Data Visualization
 ### Normalization
 ### Standardization
 ### Hypothesis Testing
-### Correlaation
+### Correlation
 ### Data Insights
