@@ -1,7 +1,7 @@
 # Statistical-Data-Analysis
  Dataset link : https://github.com/Aishwarya2501/Statistical-Data-Analysis/blob/main/googleplay.csv
  
- In this Project, I have explored the data used libraries such as Pandas, Numpy and analyzed it using Visualization tools such as Matplotlib, Seaborn .
+ In this Project, I have explored the data using libraries such as Pandas, Numpy and analyzed it using Visualization tools such as Matplotlib, Seaborn .
  
 The dataset is the 'Google Play Store' from Kaggle. It gives us brief information about a few apps on it. This dataset has approximately 4% missing values. This dataset was last modified in December 2018. The dataset contains information regarding 6000+ applications available on the google play store on which Data Visualization and Statistical Analysis are made  The information is categorised into 13 columns. There are the features or the variables of the dataset.
 
